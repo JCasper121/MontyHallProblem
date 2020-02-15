@@ -1,0 +1,11 @@
+C:\Coding\3_doors\threeDoors\bin\Debug\netcoreapp2.2\threeDoors.deps.json
+C:\Coding\3_doors\threeDoors\bin\Debug\netcoreapp2.2\threeDoors.runtimeconfig.json
+C:\Coding\3_doors\threeDoors\bin\Debug\netcoreapp2.2\threeDoors.runtimeconfig.dev.json
+C:\Coding\3_doors\threeDoors\bin\Debug\netcoreapp2.2\threeDoors.dll
+C:\Coding\3_doors\threeDoors\bin\Debug\netcoreapp2.2\threeDoors.pdb
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.csprojAssemblyReference.cache
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.csproj.CoreCompileInputs.cache
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.AssemblyInfoInputs.cache
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.AssemblyInfo.cs
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.dll
+C:\Coding\3_doors\threeDoors\obj\Debug\netcoreapp2.2\threeDoors.pdb
